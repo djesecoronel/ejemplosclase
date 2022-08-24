@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\bin\Debug\net6.0\Ejemplo5.exe
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\bin\Debug\net6.0\Ejemplo5.deps.json
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\bin\Debug\net6.0\Ejemplo5.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\bin\Debug\net6.0\Ejemplo5.dll
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\bin\Debug\net6.0\Ejemplo5.pdb
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.dll
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\refint\Ejemplo5.dll
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.pdb
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\Ejemplo5.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\C#\Ejemplo5\Ejemplo5\obj\Debug\net6.0\ref\Ejemplo5.dll
